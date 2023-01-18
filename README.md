@@ -7,6 +7,7 @@ Transit ITS Datat Exchange Specification (TIDES)
 - General Transit Feed Specification (GTFS)
 - Automatic Fare Collection (AFC)
 
-`Exercise 1` APC data
-`Exercise 2` AVL & GTFS data: GPS and Schedules
-`Exercise 3` AFC data
+Hands-on Learning
+- `Exercise 1` APC data
+- `Exercise 2` AVL & GTFS data: GPS and Schedules
+- `Exercise 3` AFC data
